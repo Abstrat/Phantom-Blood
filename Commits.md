@@ -4,6 +4,7 @@
 
 *[0.0.0.1]* Added Templates & .45 ACP Bullet
 
+
 ***Description***
 
 **Added**
@@ -23,5 +24,7 @@ N/A
 **Removed**
 
 N/A
+
+
 
 **END OF COMMITS.MD**
