@@ -1,7 +1,7 @@
 
 
 ***Summary:***
-*[0.0.0.1]* Added Templates & .45 ACP Bullet
+*[0.0.0.1]* Added Commit Info For Devs
 
 ***Description:***
 **Added**
