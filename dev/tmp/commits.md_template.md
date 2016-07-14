@@ -2,14 +2,26 @@
 **NO MATTER HOW SMALL MUST FOLLOW THAT TEMPLATE. IM BEING SERIOUS, THEY NEED TO BE LIKE THAT!**
 
 ***Summary:***
+
 *[version]* summary
 
+
 ***Description:***
+
 **Added**
+
+name *(file)*
+
 name *(file)*
 
 **Changed**
+
+name *(file)*
+
 name *(file)*
 
 **Removed**
+
+name *(file)*
+
 name *(file)*
